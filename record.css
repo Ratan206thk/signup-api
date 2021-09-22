@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif,Arial, Helvetica;
+}
+header{
+    font-size: 3em;
+    text-align: center;
+    color: black;
+    margin: 2% auto;
+}
+div.table-responsive-md{
+    margin: auto 10%;
+}
+table{
+    font-size: larger;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bolder;
+}
+  .table-bordered thead tr th,.table-bordered tbody tr td,.table-bordered tbody tr th{
+      border-width: 2px;
+      cursor: pointer;
+      border-color: black;
+  }
+  li{
+      cursor: pointer;
+  }
